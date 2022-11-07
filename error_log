@@ -1,0 +1,5 @@
+[07-Dec-2018 10:19:01 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/usemayrt/public_html/id.php on line 45
+[07-Dec-2018 10:19:01 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/usemayrt/public_html/id.php on line 45
+[22-Feb-2019 00:12:16 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/usemayrt/public_html/in.php on line 43
+[22-Feb-2019 00:19:51 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/usemayrt/public_html/in.php on line 43
+[24-Feb-2019 19:12:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/usemayrt/public_html/send_form_email.php on line 144
